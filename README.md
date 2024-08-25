@@ -14,4 +14,3 @@ Compare KAN and MLPs
 Use it on Cartpole environment using DQN
 Implement a KAN based LSTM. Use it on cartpole environment using ADRQN
 ```
-[DLposter.pdf](https://github.com/user-attachments/files/16740454/DLposter.pdf)
